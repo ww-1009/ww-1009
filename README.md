@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 📈 my github stats  
 <p align="center"> 
 <a href="https://github.com/ww-1009/">
- <img align="center" src="https://github-stats-extended.vercel.app/api?username=ww-1009&theme=radical" style="width: 40%; "/>
+ <img align="center" src="https://github-stats-extended.vercel.app/api?username=ww-1009&theme=radical&hide=Jupyter%20Notebook&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&card_width=250" style="width: 40%; "/>
 </a>
 
