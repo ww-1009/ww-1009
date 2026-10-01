@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📈 my github stats  
-<p align="center"> 
-<a href="https://github.com/ww-1009/">
- <img align="center" src="https://github-stats-extended.vercel.app/api?username=ww-1009&hide=Jupyter%20Notebook&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&card_width=250" style="width: 40%; "/>
-</a>
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=ww-1009&show_icons=true&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- light mode -->
+  <img src="https://github-stats-extended.vercel.app/api?username=ww-1009&show_icons=true&theme=light_github" />
+</picture>
 
